@@ -31,6 +31,23 @@ roslaunch racecar_gazebo racecar_rviz.launch
 rosrun racecar_gazebo path_pursuit.py
 ```
 
+<p align="center">
+  <img src="./imgs/gazebo.png" style="width:100%;"/>
+  <img src="./imgs/rviz.png" style="width:100%;"/>
+</p>
+
+ROS Frames:
+
+<p align="center">
+  <img src="./imgs/frames.svg" style="width:100%;"/>
+</p>
+
+ROS Graph:
+
+<p align="center">
+  <img src="./imgs/rosgraph.svg" style="width:100%;"/>
+</p>
+
 ### with darknet_ros
 
 * change camera topic in `ros.yaml`
