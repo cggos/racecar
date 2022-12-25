@@ -1,6 +1,8 @@
 # 智能车仿真
 
-代码使用参考教程：[教程地址](https://www.guyuehome.com/6463)
+* [mit-racecar (github)](https://github.com/mit-racecar)
+
+* 代码使用参考教程：[教程地址](https://www.guyuehome.com/6463)
 
 ---
 
